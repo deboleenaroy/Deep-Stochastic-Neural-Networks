@@ -1,6 +1,6 @@
 # Deep-Stochastic-Neural-Networks
 
-This is the code associated with the paper "Scaling Deep Spiking Neural Networks with Stochastic Activations" submitted to IEEE ICCC 2019
+This is the code associated with the paper "Scaling Deep Spiking Neural Networks with Stochastic Activations" , IEEE ICCC 2019
 
 ## Dependencies
 
